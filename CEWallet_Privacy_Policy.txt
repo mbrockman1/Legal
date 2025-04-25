@@ -1,0 +1,28 @@
+Privacy Policy
+Effective Date: April 2025
+Application: CE Wallet
+
+CE Wallet is designed to help professionals manage continuing education and license documentation securely and privately. This policy outlines how your information is handled within the app.
+
+Data Collection and Storage
+CE Wallet does not collect, transmit, or store any personal information on external servers. All user data, including continuing education entries, license details, expiration dates, and any uploaded documents (such as PDFs or images), is stored locally on your device. The app does not use cloud services or third-party servers for data storage.
+
+Biometric Authentication
+If enabled by the user, CE Wallet utilizes the device’s biometric authentication (Face ID or Touch ID) to restrict access to the application. Biometric data is never stored or accessed by the app. Authentication is handled entirely by Apple’s LocalAuthentication framework and remains within the secure enclave of the device.
+
+Notifications
+CE Wallet may request permission to send local notifications, for example, to remind you of upcoming license expirations. These notifications are generated and stored on your device and are not associated with any external service. No notification data is shared with Apple or any third party.
+
+Attachments and Files
+Any files you choose to attach, such as certificates or confirmation PDFs, remain stored on your device. CE Wallet does not upload, analyze, or transmit these documents. Exporting documents or summaries is initiated entirely by the user through system-provided share options.
+
+Third-Party Access
+CE Wallet does not share, sell, or transmit any personal data to third parties. There are no analytics tools, advertising platforms, or third-party integrations that access your information.
+
+User Control and Deletion
+Users have full control over their data. Any entry or attachment can be manually deleted at any time within the app. Deleting the app from your device will remove all associated data, unless backups are enabled through your iOS system settings.
+
+Contact
+If you have any questions or concerns about your privacy while using CE Wallet, you may contact the developer directly at:
+
+Michael Brockman
