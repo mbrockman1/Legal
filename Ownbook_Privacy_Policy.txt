@@ -1,0 +1,24 @@
+OwnBooks Privacy Policy
+
+Effective Date: 04/26/2025
+
+Introduction
+OwnBooks (“we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect any information you provide when using the OwnBooks app.
+
+Information Collection
+OwnBooks does not collect, store, or transmit any personally identifiable information (PII). All data entered or generated within the app, such as audiobook files, listening statistics, or notes, remains stored locally on your device unless you choose to back it up through your own iCloud account or other external services.
+
+Use of Information
+All information within OwnBooks is used solely for the operation and functionality of the app. We do not access, view, share, sell, or transmit your data to any third parties.
+
+Third-Party Services
+OwnBooks does not integrate with third-party analytics services, advertising networks, or external data processors. If you choose to store your audiobook library or app backups using Apple’s iCloud services, your data is subject to Apple’s Privacy Policy and security practices.
+
+Data Security
+We take reasonable steps to protect your information. All data remains confined to your personal device unless you choose to manually export, share, or back up your data.
+
+Children’s Privacy
+OwnBooks is not intended for use by individuals under the age of 13. We do not knowingly collect any information from children.
+
+Changes to this Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the app and updated with a new effective date. Continued use of OwnBooks after changes are made constitutes your acceptance of the revised policy.
