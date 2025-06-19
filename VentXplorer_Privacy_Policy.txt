@@ -1,0 +1,49 @@
+Privacy Policy
+Effective Date: June 2025
+Application: VentXplorer
+
+VentXplorer is designed to assist clinicians with ventilator management education and reference in a secure, private, and offline environment. This policy outlines how your information is handled within the app.
+
+⸻
+
+Data Collection and Storage
+
+VentXplorer does not collect, transmit, or store any personal or patient-identifiable information on external servers. The app functions entirely offline. No user input, settings, or usage data is stored outside of your device. VentXplorer does not utilize cloud services or external databases.
+
+⸻
+
+
+Notifications
+
+VentXplorer may request permission to send local notifications, such as educational reminders or ventilator learning milestones. These notifications are generated on your device and are not routed through any third-party services. No notification content is shared with Apple or external systems.
+
+⸻
+
+Attachments and Files
+
+VentXplorer does not support or require any file uploads. Any notes or screenshots saved by the user remain stored locally on the device. The app does not access, transmit, or analyze any documents or media from your device.
+
+⸻
+
+Third-Party Access
+
+VentXplorer does not share, sell, or transmit any personal or clinical data to third parties. It includes no third-party analytics, advertising SDKs, or integrations that access your usage or device information.
+
+⸻
+
+User Control and Deletion
+
+Users have full control over any locally stored content. Deleting the app will remove all associated data unless iOS system backups are enabled. No cloud-based backups are created or maintained by VentXplorer.
+
+⸻
+
+Disclaimer
+
+VentXplorer is intended for educational use only and is not a substitute for clinical judgment. Always consult institutional guidelines and supervising medical staff before applying any ventilator-related decisions in a clinical setting.
+
+⸻
+
+Contact
+
+If you have questions or concerns regarding your privacy while using VentXplorer, please contact the developer at:
+MedXplorer LLC
