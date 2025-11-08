@@ -1,0 +1,37 @@
+WeTheFans End-User License Agreement (EULA)
+Effective Date: November 2025
+
+This End-User License Agreement (“Agreement”) is between you and MedXplorer LLC (“Licensor”) and governs your use of the WeTheFans mobile application (“App”).
+
+1. License
+   Licensor grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes in accordance with this Agreement and the App Store Terms of Service.
+
+2. Ownership
+   The App, including its code, design, data, and all related intellectual property rights, remains the exclusive property of Licensor. No ownership rights are transferred to you.
+
+3. Restrictions
+   You may not:
+   • Copy, modify, reverse engineer, or decompile any part of the App;  
+   • Rent, lease, or sell access to the App;  
+   • Use the App for unlawful purposes or to interfere with its operation.
+
+4. User Content
+   By submitting a ballot or other content, you grant Licensor a non-exclusive, worldwide, royalty-free license to use that data solely for displaying aggregated rankings and related statistics.
+
+5. Disclaimer of Warranties
+   The App is provided “AS IS” without warranties of any kind, express or implied. Licensor disclaims all warranties including merchantability, fitness for a particular purpose, and non-infringement.
+
+6. Limitation of Liability
+   To the maximum extent permitted by law, Licensor shall not be liable for any indirect, incidental, or consequential damages arising from use of the App.
+
+7. Termination
+   This license is effective until terminated. Licensor may terminate it at any time if you fail to comply with its terms. Upon termination, you must cease all use and delete all copies of the App.
+
+8. Governing Law
+   This Agreement shall be governed by the laws of the Commonwealth of Massachusetts, USA, without regard to conflict-of-laws principles.
+
+9. Contact
+   Questions about this Agreement may be sent to:  
+   **legal@wethefans.app**
+
+By downloading or using *WeTheFans*, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
