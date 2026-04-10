@@ -1,0 +1,73 @@
+This is a clean, professional Privacy Policy tailored for TimeSince and MBApps. It explicitly states that you do not collect data, which is a significant selling point for a "Zen" minimalist app.
+
+You can host this text on a simple website (like GitHub Pages, a Notion public page, or a free Carrd site) to provide the required URL for App Store Connect.
+
+Privacy Policy for TimeSince
+
+Last Updated: April 10, 2026
+
+MBApps ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through our mobile application, TimeSince.
+
+1. No Data Collection
+
+TimeSince is designed as a private, local-first utility.
+
+We do not collect any personal data.
+
+We do not have access to your events. The names, dates, and times you enter into the application are stored exclusively on your device.
+
+No Account Required. You do not need to create an account or provide an email address to use TimeSince.
+
+2. Local Storage and Syncing
+
+All data created within the app is stored locally on your iPhone and Apple Watch using industry-standard encryption provided by the operating system.
+
+Watch Connectivity: When you sync an event to your Apple Watch, the data is transmitted over a secure, private Bluetooth/Wi-Fi link managed by Apple’s WatchConnectivity framework.
+
+Widgets: Information displayed in iOS and watchOS widgets is rendered locally on your device.
+
+No Cloud Servers: MBApps does not maintain any external servers. Your data never leaves your personal hardware ecosystem.
+
+3. Third-Party Services
+
+TimeSince utilizes standard Apple system services to function:
+
+App Store: Apple may collect standard analytics regarding app installations and crashes if you have opted-in to share that information with developers via iOS settings.
+
+iCloud: If you use system-level backups, your app data may be included in your private encrypted iCloud backup, which is managed entirely by Apple.
+
+4. No Advertising and No Tracking
+
+TimeSince contains no advertisements.
+
+TimeSince contains no third-party trackers or analytics SDKs (such as Facebook, Google Analytics, or Firebase).
+
+We do not sell, rent, or trade your information to any third parties.
+
+5. Children’s Privacy
+
+Because TimeSince does not collect any personal information, it is safe for users of all ages. We do not knowingly or unknowingly collect data from children under the age of 13.
+
+6. Legal Disclaimer
+
+TimeSince is provided for informational and philosophical purposes only. Mathematical conversions provided within the app (e.g., heartbeats, moon phases, earth miles) are approximations and should not be used for medical, scientific, or critical timing purposes.
+
+7. Changes to This Policy
+
+We may update our Privacy Policy from time to time. Any changes will be reflected by the "Last Updated" date at the top of this page. Your continued use of the app after changes are made signifies your acceptance of the updated policy.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+MBApps
+[Insert your support email address here]
+2026
+
+App Store Submission Tip:
+
+When you fill out the App Privacy section in App Store Connect, select the following:
+
+Data Collection: Select "No, we do not collect data from this app."
+
+This will give your app the "Data Not Collected" blue badge on the App Store, which significantly increases user trust.
