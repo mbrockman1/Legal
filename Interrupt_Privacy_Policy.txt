@@ -1,0 +1,25 @@
+Privacy Policy for Interrupt
+
+Effective Date: April 15, 2026
+1. Introduction
+
+At Interrupt ("we", "our", or "us"), we believe your mind is your own. We built Interrupt to be a privacy-first cognitive reset tool. Because the app handles sensitive emotional reflections and personal notes, it was engineered from the ground up to keep your data strictly under your control.
+2. Data Collection and Storage
+
+We do not collect, store, or transmit your personal data to our own servers.
+All data created within Interrupt—including your emotional trigger logs, timestamps, customized emotions, and personal notes ("Proof of Wins" or "Future Self" messages)—is stored locally on your device using Apple’s native on-device storage.
+3. Apple Watch Synchronization
+
+If you use the Interrupt Apple Watch companion app, your data synchronizes between your Apple Watch and your iPhone locally. This transfer happens directly between your devices using Apple’s secure WatchConnectivity framework (via Bluetooth or local Wi-Fi). This data never passes through our servers.
+4. iCloud Backups
+
+If you have device backups enabled on your iPhone or Apple Watch, your local app data may be backed up to your personal Apple iCloud account. This process is entirely controlled by Apple and your personal device settings. We do not have access to your iCloud account or the data stored within it. For more information, please review Apple’s Privacy Policy.
+5. Third-Party Tracking and Analytics
+
+Interrupt contains no third-party tracking software, no advertising SDKs, and no analytics trackers (such as Google Analytics or Facebook Pixel). We do not track how you use the app, we do not read your emotional logs, and we absolutely do not sell or share your data with any third parties, advertisers, or data brokers.
+6. Data Deletion
+
+Because your data lives entirely on your device, you have total control over it. You can delete individual custom emotions or notes directly within the app. If you wish to delete all of your data permanently, simply delete the Interrupt app from your iPhone and Apple Watch.
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. If we make significant changes to how your data is handled, we will notify you by updating the "Effective Date" at the top of this policy and, if required, providing notice within the app.
