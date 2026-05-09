@@ -1,0 +1,37 @@
+Privacy Policy for "Sip: Dynamic Hydration"
+
+Last Updated: May 9, 2026
+
+Your privacy is paramount. "Sip: Dynamic Hydration" (the "App") is designed to provide you with insights into your hydration habits while keeping your sensitive health data strictly on your own device.
+1. Data Collection & Storage
+
+We operate on a "Privacy-First" principle.
+
+    Health Data: Sip reads and writes hydration, active energy (calories), and workout data exclusively through Apple HealthKit. This data is stored locally on your device and synced with your iCloud account per your Apple settings. We do not collect, store, or transmit your health data to our own servers.
+
+    Location Data: Your location is used solely to fetch local weather information via Apple’s WeatherKit service to provide adaptive hydration goal adjustments. This location data is processed locally on your device and is not saved or shared with third parties.
+
+    Usage Data: We do not track your usage patterns, personal identity, or behavior.
+
+2. How We Use Information
+
+The information accessed by the App is used solely for the following purposes:
+
+    To calculate and visualize your hydration status.
+
+    To provide adaptive hydration goals based on your physical activity and local environment.
+
+    To enable sync between your iPhone and Apple Watch via WatchConnectivity.
+
+3. Third-Party Services
+
+Sip relies on Apple’s native frameworks (HealthKit, WeatherKit, WidgetKit, ActivityKit) to function. By using these features, your data is governed by Apple’s Privacy Policy. We do not integrate with third-party analytics (like Google Analytics, Firebase, or Facebook SDKs) that track your behavior across apps.
+4. Data Security
+
+Because Sip does not maintain a cloud database of your health information, there is no risk of a "data breach" on our servers. Your data stays in the Apple Health ecosystem, which is encrypted and under your complete control. You can revoke access to this data at any time via your device’s Privacy & Security settings.
+5. Children’s Privacy
+
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+6. Changes to this Policy
+
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
